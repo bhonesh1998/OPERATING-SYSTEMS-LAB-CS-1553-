@@ -1,0 +1,38 @@
+man - it shows manual page of every command
+who - 1. Time of last system boot
+		2. Current run level of the system
+		3. List of logged in users and more.
+cat - for creating a file
+		for displaying contents of a file 
+cd - for changing directory
+cp- for copy contents of one file in another file 
+ps- List All Processes in Current Shell
+ls- List All files/directories in current directory
+mv- moving contents of one file into another file
+rm - deleting a file  
+mkdir - making a directory
+rmdir - removing a directory
+echo - Input a line of text and display on standard output
+more- for displaying contents of a file 
+time - it shows the total time is taken to run the command,
+		 the amount of time that was spent in user mode,
+		 the amount of time spent in kernel mode.
+kill - for terminating processes
+history - for showing history of all commands used
+chmod - chmod is used to change the permissions of files or directories.
+
+			
+			 the user can read, write, ande xecute it;
+			 members of your group can read ande xecute it; and
+			 others may only read it.
+			 
+			 
+			 4 stands for "read",
+			 2 stands for "write",
+			 1 stands for "execute", and
+			 0 stands for "no permission."
+			 
+chown - changing ownership 		
+	 
+			 
+
